@@ -5,6 +5,7 @@
 // Worst Case: O(n^2) || Best case O(n^2)
 // Not Stable
 // Not Adaptive
+// it will not stop until the loops ends, However the array is already sorted.
 
 void SelectionSort(int *arr, int n ){
     int min;
