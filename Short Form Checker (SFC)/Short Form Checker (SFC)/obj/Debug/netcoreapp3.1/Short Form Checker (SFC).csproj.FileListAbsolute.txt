@@ -1,0 +1,13 @@
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).exe
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).deps.json
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).runtimeconfig.json
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).runtimeconfig.dev.json
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).dll
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\bin\Debug\netcoreapp3.1\Short Form Checker (SFC).pdb
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).csprojAssemblyReference.cache
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).AssemblyInfoInputs.cache
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).AssemblyInfo.cs
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).csproj.CoreCompileInputs.cache
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).dll
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).pdb
+E:\Applications\Algorithm\Short Form Checker (SFC)\Short Form Checker (SFC)\obj\Debug\netcoreapp3.1\Short Form Checker (SFC).genruntimeconfig.cache

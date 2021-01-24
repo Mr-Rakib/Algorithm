@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rabin-Karp Pattern Finding/1.0.0": {
+        "runtime": {
+          "Rabin-Karp Pattern Finding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rabin-Karp Pattern Finding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

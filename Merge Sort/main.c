@@ -8,7 +8,6 @@
 // Use Divide and Conquer technique
 // More efficient than quick sort for huge amount of data
 
-
 void Merge(int arr[], int mid, int low, int high)
 {
     int i, j, k;
